@@ -5,7 +5,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        angsana:["Angsana New"]
+        angsana:["Angsana New"],
+        anthiti:["Anthiti"],
+        kanit:["Kanit"],
       }
     },
   },
